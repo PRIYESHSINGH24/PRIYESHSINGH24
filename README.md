@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm PRIYESH SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+[![PRIYESHSINGH24's GitHub | Stats](https://stats.quira.sh/PRIYESHSINGH24/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PRIYESHSINGH24)
+
+
+[![PRIYESHSINGH24's GitHub | Languages Over Time](https://stats.quira.sh/PRIYESHSINGH24/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PRIYESHSINGH24)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="priyeshsingh24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyeshsingh24" alt="priyeshsingh24" /></a> </p>
