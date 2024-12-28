@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm PRIYESH SINGH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 
 [![PRIYESHSINGH24's GitHub | Stats](https://stats.quira.sh/PRIYESHSINGH24/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PRIYESHSINGH24)
